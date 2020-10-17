@@ -1,0 +1,25 @@
+C:\Users\Raphael\source\repos\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csprojAssemblyReference.cache
+C:\Users\Raphael\source\repos\Project_Pc\Project_Pc\obj\Debug\Project_Pc.Form_Client.resources
+C:\Users\Raphael\source\repos\Project_Pc\Project_Pc\obj\Debug\Project_Pc.Properties.Resources.resources
+C:\Users\Raphael\source\repos\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csproj.GenerateResource.cache
+C:\Users\Raphael\source\repos\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\bin\Debug\Project_Pc.exe.config
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\bin\Debug\Project_Pc.exe
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\bin\Debug\Project_Pc.pdb
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csprojAssemblyReference.cache
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.Form_Client.resources
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.Properties.Resources.resources
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csproj.GenerateResource.cache
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.exe
+C:\Users\Raphael\Documents\Visual Studio 2017\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.pdb
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\bin\Debug\Project_Pc.exe.config
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\bin\Debug\Project_Pc.exe
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\bin\Debug\Project_Pc.pdb
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.Form_Client.resources
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.Properties.Resources.resources
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.exe
+D:\Visual Studio\Projects\Project_Pc\Project_Pc\obj\Debug\Project_Pc.pdb

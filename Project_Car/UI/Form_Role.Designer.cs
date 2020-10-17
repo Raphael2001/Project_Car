@@ -1,0 +1,222 @@
+﻿namespace Project_Car.UI
+{
+    partial class Form_Role
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Role));
+            this.btn_Delete = new System.Windows.Forms.Button();
+            this.listbox_Role = new System.Windows.Forms.ListBox();
+            this.btn_Clear = new System.Windows.Forms.Button();
+            this.btn_Save = new System.Windows.Forms.Button();
+            this.lbl_HeadLine = new System.Windows.Forms.Label();
+            this.lbl_Idtxt = new System.Windows.Forms.Label();
+            this.lbl_id = new System.Windows.Forms.Label();
+            this.lbl_ErrorTitle = new System.Windows.Forms.Label();
+            this.txt_Title = new System.Windows.Forms.TextBox();
+            this.asterix_Title = new System.Windows.Forms.Label();
+            this.lbl_Title = new System.Windows.Forms.Label();
+            this.Mady_by = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // btn_Delete
+            // 
+            this.btn_Delete.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Delete.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.btn_Delete.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.btn_Delete.Location = new System.Drawing.Point(432, 377);
+            this.btn_Delete.Name = "btn_Delete";
+            this.btn_Delete.Size = new System.Drawing.Size(180, 57);
+            this.btn_Delete.TabIndex = 199;
+            this.btn_Delete.Text = "Delete Role";
+            this.btn_Delete.UseVisualStyleBackColor = true;
+            this.btn_Delete.Click += new System.EventHandler(this.btn_Delete_Click);
+            // 
+            // listbox_Role
+            // 
+            this.listbox_Role.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listbox_Role.FormattingEnabled = true;
+            this.listbox_Role.ItemHeight = 36;
+            this.listbox_Role.Location = new System.Drawing.Point(652, 23);
+            this.listbox_Role.Name = "listbox_Role";
+            this.listbox_Role.Size = new System.Drawing.Size(265, 400);
+            this.listbox_Role.TabIndex = 198;
+            this.listbox_Role.DoubleClick += new System.EventHandler(this.listbox_Role_DoubleClick);
+            // 
+            // btn_Clear
+            // 
+            this.btn_Clear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Clear.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.btn_Clear.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.btn_Clear.Location = new System.Drawing.Point(60, 377);
+            this.btn_Clear.Name = "btn_Clear";
+            this.btn_Clear.Size = new System.Drawing.Size(160, 57);
+            this.btn_Clear.TabIndex = 197;
+            this.btn_Clear.Text = "Clear";
+            this.btn_Clear.UseVisualStyleBackColor = true;
+            this.btn_Clear.Click += new System.EventHandler(this.btn_Clear_Click);
+            // 
+            // btn_Save
+            // 
+            this.btn_Save.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Save.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.btn_Save.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.btn_Save.Location = new System.Drawing.Point(226, 377);
+            this.btn_Save.Name = "btn_Save";
+            this.btn_Save.Size = new System.Drawing.Size(199, 57);
+            this.btn_Save.TabIndex = 1;
+            this.btn_Save.Text = "Save Role";
+            this.btn_Save.UseVisualStyleBackColor = true;
+            this.btn_Save.Click += new System.EventHandler(this.btn_Save_Click);
+            // 
+            // lbl_HeadLine
+            // 
+            this.lbl_HeadLine.AutoSize = true;
+            this.lbl_HeadLine.BackColor = System.Drawing.Color.Transparent;
+            this.lbl_HeadLine.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F);
+            this.lbl_HeadLine.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.lbl_HeadLine.Location = new System.Drawing.Point(272, 9);
+            this.lbl_HeadLine.Name = "lbl_HeadLine";
+            this.lbl_HeadLine.Size = new System.Drawing.Size(153, 69);
+            this.lbl_HeadLine.TabIndex = 195;
+            this.lbl_HeadLine.Text = "Role";
+            // 
+            // lbl_Idtxt
+            // 
+            this.lbl_Idtxt.AutoSize = true;
+            this.lbl_Idtxt.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Idtxt.Location = new System.Drawing.Point(194, 180);
+            this.lbl_Idtxt.Name = "lbl_Idtxt";
+            this.lbl_Idtxt.Size = new System.Drawing.Size(32, 36);
+            this.lbl_Idtxt.TabIndex = 194;
+            this.lbl_Idtxt.Text = "0";
+            // 
+            // lbl_id
+            // 
+            this.lbl_id.AutoSize = true;
+            this.lbl_id.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_id.Location = new System.Drawing.Point(31, 180);
+            this.lbl_id.Name = "lbl_id";
+            this.lbl_id.Size = new System.Drawing.Size(44, 36);
+            this.lbl_id.TabIndex = 193;
+            this.lbl_id.Text = "ID";
+            // 
+            // lbl_ErrorTitle
+            // 
+            this.lbl_ErrorTitle.AutoSize = true;
+            this.lbl_ErrorTitle.ForeColor = System.Drawing.Color.Red;
+            this.lbl_ErrorTitle.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.lbl_ErrorTitle.Location = new System.Drawing.Point(196, 320);
+            this.lbl_ErrorTitle.Name = "lbl_ErrorTitle";
+            this.lbl_ErrorTitle.Size = new System.Drawing.Size(150, 20);
+            this.lbl_ErrorTitle.TabIndex = 192;
+            this.lbl_ErrorTitle.Text = "Enter Vaild Job Title";
+            this.lbl_ErrorTitle.Visible = false;
+            // 
+            // txt_Title
+            // 
+            this.txt_Title.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.txt_Title.Location = new System.Drawing.Point(200, 258);
+            this.txt_Title.Name = "txt_Title";
+            this.txt_Title.Size = new System.Drawing.Size(326, 41);
+            this.txt_Title.TabIndex = 0;
+            // 
+            // asterix_Title
+            // 
+            this.asterix_Title.AutoSize = true;
+            this.asterix_Title.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.asterix_Title.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.asterix_Title.Location = new System.Drawing.Point(541, 258);
+            this.asterix_Title.Name = "asterix_Title";
+            this.asterix_Title.Size = new System.Drawing.Size(27, 36);
+            this.asterix_Title.TabIndex = 191;
+            this.asterix_Title.Text = "*";
+            // 
+            // lbl_Title
+            // 
+            this.lbl_Title.AutoSize = true;
+            this.lbl_Title.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Title.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.lbl_Title.Location = new System.Drawing.Point(31, 263);
+            this.lbl_Title.Name = "lbl_Title";
+            this.lbl_Title.Size = new System.Drawing.Size(128, 36);
+            this.lbl_Title.TabIndex = 190;
+            this.lbl_Title.Text = "Job Title";
+            // 
+            // Mady_by
+            // 
+            this.Mady_by.AutoSize = true;
+            this.Mady_by.Font = new System.Drawing.Font("Monotype Corsiva", 14F, System.Drawing.FontStyle.Italic);
+            this.Mady_by.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.Mady_by.Location = new System.Drawing.Point(278, 469);
+            this.Mady_by.Name = "Mady_by";
+            this.Mady_by.Size = new System.Drawing.Size(266, 34);
+            this.Mady_by.TabIndex = 201;
+            this.Mady_by.Text = "Made by Raphael Aboohi";
+            // 
+            // Form_Role
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.ClientSize = new System.Drawing.Size(929, 510);
+            this.Controls.Add(this.Mady_by);
+            this.Controls.Add(this.btn_Delete);
+            this.Controls.Add(this.listbox_Role);
+            this.Controls.Add(this.btn_Clear);
+            this.Controls.Add(this.btn_Save);
+            this.Controls.Add(this.lbl_HeadLine);
+            this.Controls.Add(this.lbl_Idtxt);
+            this.Controls.Add(this.lbl_id);
+            this.Controls.Add(this.lbl_ErrorTitle);
+            this.Controls.Add(this.txt_Title);
+            this.Controls.Add(this.asterix_Title);
+            this.Controls.Add(this.lbl_Title);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "Form_Role";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Role";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Button btn_Delete;
+        private System.Windows.Forms.ListBox listbox_Role;
+        private System.Windows.Forms.Button btn_Clear;
+        private System.Windows.Forms.Button btn_Save;
+        private System.Windows.Forms.Label lbl_HeadLine;
+        private System.Windows.Forms.Label lbl_Idtxt;
+        private System.Windows.Forms.Label lbl_id;
+        private System.Windows.Forms.Label lbl_ErrorTitle;
+        private System.Windows.Forms.TextBox txt_Title;
+        private System.Windows.Forms.Label asterix_Title;
+        private System.Windows.Forms.Label lbl_Title;
+        private System.Windows.Forms.Label Mady_by;
+    }
+}
